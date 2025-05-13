@@ -37,7 +37,7 @@ const projectsData = [
     image: 'images/android.png',
     category: 'mobile',
     technologies: ['Kotlin', 'Android Studio', 'Firebase', 'XML'],
-    demoLink: '#',
+    demoLink: 'https://github.com/Piyushvishwak/HealthCare-Android-App/releases/tag/v1.0',
     codeLink: 'https://github.com/Piyushvishwak/HealthCare-Android-App'
   },
   {
