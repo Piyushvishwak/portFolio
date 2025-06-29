@@ -7,7 +7,7 @@ const projectsData = [
     image: 'images/bookstore.png',
     category: 'web',
     technologies: ['React', 'MongoDB', 'Express.js', 'Node.js'],
-    demoLink: 'https://gandalf-books-git-main-piyushs-projects-a1a62dfa.vercel.app/',
+    demoLink: 'https://gandalf-books.vercel.app/',
     codeLink: 'https://github.com/Piyushvishwak/GandalfBooks'
   },
   {
