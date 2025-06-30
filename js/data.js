@@ -27,7 +27,7 @@ const projectsData = [
     image: 'images/artisan.png',
     category: 'web',
     technologies: ['EJS', 'Node.js', 'MongoDB', 'Express.js', 'Socket.io', 'Bootstrap'],
-    demoLink: '#',
+    demoLink: 'https://artisan-s-marketplace.onrender.com',
     codeLink: 'https://github.com/Piyushvishwak/Artisan-s-Marketplace'
   },
   {
